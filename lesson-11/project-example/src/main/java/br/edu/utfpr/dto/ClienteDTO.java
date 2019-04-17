@@ -4,6 +4,7 @@ import lombok.Builder;
 import lombok.Data;
 import br.edu.utfpr.excecao.NomeClienteMenor5CaracteresException;
 
+
 @Data
 @Builder
 public class ClienteDTO {
